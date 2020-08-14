@@ -6,6 +6,6 @@
 
 - 🌱 I’m currently learning [@BeCode.org](https://github.com/becodeorg)
 
-- ⚡ I’m currently working on my tech skills and programming languages `.html`, `.css`, `.js` & `.php`
+- ⚡ I’m currently working on my tech skills and programming languages: `.html` `.css` `.js` `.php`
 
 
